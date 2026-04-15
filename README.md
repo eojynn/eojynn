@@ -1,12 +1,20 @@
 ## About Me
 
-👋 Hi! I'm a programmer who **loves** making games.
+👋 안녕하세요. 유니티 게임 프로그래머 eojynn 입니다!
 
-👶 I started game development when I was 10, using Flash 8. 
+Hello! I'm eojynn, a Unity game programmer.
 
-👨‍💻 Now, I use **Unity** and am still passionate about making games and programming!
+👶 10살 때부터 Flash 8로 게임을 만들기 시작했습니다.
 
-🤗 **Welcome to my Github!** Feel free to look around and explore.
+I started making games at the age of 10 using Flash 8.
+
+🖥️ 현재는 Unity를 사용해 게임을 개발하고 있으며, Unity 프로그래머로 1년간 실무 경험이 있습니다.
+
+I currently develop games using Unity, and I have one year of professional experience as a Unity programmer.
+
+🤗 방문해주셔서 감사합니다.
+
+Thank you for visiting.
 
 
 ## My Websites
