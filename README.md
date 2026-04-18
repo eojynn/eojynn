@@ -4,7 +4,7 @@
 
 Hello! I'm eojynn, a Unity game programmer.
 
-👶 10살 때부터 Flash 8로 게임을 만들기 시작했습니다.
+👶 10살 때부터 Flash 8로 게임을 만들기 시작했어요.
 
 I started making games at the age of 10 using Flash 8.
 
@@ -12,9 +12,9 @@ I started making games at the age of 10 using Flash 8.
 
 I currently develop games using Unity, and I have one year of professional experience as a Unity programmer.
 
-🤗 방문해주셔서 감사합니다.
+🤗 방문해주셔서 감사합니다!
 
-Thank you for visiting.
+Thank you for visiting!
 
 
 ## My Websites
